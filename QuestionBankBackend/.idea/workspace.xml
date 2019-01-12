@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf80c53e-fd1c-4fe5-a046-dbe03863db36" name="Default" comment="题库后台，tc-consumer模块">
-      <change beforePath="$PROJECT_DIR$/log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/test.log" afterDir="false" />
-    </list>
+    <list default="true" id="bf80c53e-fd1c-4fe5-a046-dbe03863db36" name="Default" comment="题库后台，tc-consumer模块" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/olcp-consumer/target/" />
     <ignored path="$PROJECT_DIR$/olcp-provider/target/" />
@@ -15,12 +13,60 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="adminQuestionController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/adminQuestionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/mapper/QuestionMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mongodb</find>
+      <find>JPA</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -40,12 +86,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/olcp-consumer/log/test.log" />
         <option value="$PROJECT_DIR$/olcp-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/olcp-provider/pom.xml" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/aspect/WebLogAspect.java" />
         <option value="$PROJECT_DIR$/olcp-provider/src/main/resources/application.yum" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/application.yum" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/adminDao.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/search1Dao.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/userDao.java" />
@@ -73,23 +117,26 @@
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/SendEmailController.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/UserController.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/questionDao.java" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/impl/questionServiceImpl.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/question.java" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/QuestionController.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/questionService.java" />
         <option value="$PROJECT_DIR$/olcp-provider/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/ClientApplication.java" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/utils/Const.java" />
         <option value="$PROJECT_DIR$/olcp-provider/src/main/java/olcp/ServerApplication.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/utils/UploadUtil.java" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/adminQuestionController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/olcp-provider/src/main/resources/dubbox.xml" />
         <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/dubbox.xml" />
         <option value="$PROJECT_DIR$/olcp-provider/src/main/java/olcp/aspect/WebLogAspect.java" />
         <option value="$PROJECT_DIR$/log/test.log" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/impl/questionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/ClientApplication.java" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/templates/test.html" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/QuestionController.java" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/application.yum" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/adminQuestionController.java" />
+        <option value="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/mapper/QuestionMapper.java" />
       </list>
     </option>
   </component>
@@ -108,12 +155,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -123,8 +165,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="520" />
     <option name="y" value="25" />
-    <option name="width" value="1220" />
-    <option name="height" value="1004" />
+    <option name="width" value="1210" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,9 +174,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,26 +227,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="aspect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,7 +237,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tc" type="b2602c69:ProjectViewProjectNode" />
@@ -225,28 +248,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tc" type="b2602c69:ProjectViewProjectNode" />
@@ -275,10 +277,7 @@
               <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tc" type="b2602c69:ProjectViewProjectNode" />
@@ -287,71 +286,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tc" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="olcp-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuestionBank Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="olcp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,6 +304,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -372,13 +317,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/olcp-consumer/src/main/resources/static/js" />
       <recent name="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao" />
       <recent name="$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/utils" />
     </key>
@@ -470,7 +416,11 @@
       <workItem from="1543754301564" duration="6928000" />
       <workItem from="1543795359647" duration="7403000" />
       <workItem from="1543821974258" duration="5246000" />
-      <workItem from="1543828309689" duration="4140000" />
+      <workItem from="1543828309689" duration="6056000" />
+      <workItem from="1543841975563" duration="305000" />
+      <workItem from="1544877190846" duration="4920000" />
+      <workItem from="1544926723515" duration="16898000" />
+      <workItem from="1545140590639" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="题库后台，tc-consumer模块">
       <created>1543830505367</created>
@@ -483,7 +433,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25890000" />
+    <option name="totallyTimeSpent" value="52278000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,37 +448,37 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053364" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053364" side_tool="true" weight="0.30415756" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32977587" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4994664" weight="0.32894737" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.87061405" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.86870897" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32894737" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17342582" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32977587" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4994664" weight="0.32822758" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,13 +488,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/olcp-consumer" />
+    </ignored-roots>
     <MESSAGE value="题库后台，tc-consumer模块" />
     <option name="LAST_COMMIT_MESSAGE" value="题库后台，tc-consumer模块" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/email.java" />
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/search1.java" />
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/user.java" />
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/mapper/QuestionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/impl/answerServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/search1Service.java" />
     <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/RedisConfig.java" />
@@ -601,10 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,20 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/prometheus.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/ClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/utils/UploadUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -659,82 +602,6 @@
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/questionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/impl/questionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/questionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1708">
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/adminQuestionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/QuestionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="110" column="30" lean-forward="true" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-provider/src/main/resources/dubbox.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/dubbox.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/olcp-provider/src/main/java/olcp/aspect/WebLogAspect.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,23 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="41" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/test.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/aspect/WebLogAspect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-386">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,6 +628,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.8.RELEASE/spring-data-commons-2.0.8.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/prometheus.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/ClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/pojo/ResultBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/impl/questionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/service/questionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/user/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/application.yum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/entity/question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/dao/questionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/web/admin/adminQuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olcp-consumer/src/main/java/olcp/mapper/QuestionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -829,12 +801,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tc-provider</last-edited>
+          <last-edited>Web|tc-consumer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
